@@ -1,2 +1,2 @@
 new code for testing git stash
-new content to test conflict from main
+new content from newbranch1 to test conflict
